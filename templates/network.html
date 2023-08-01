@@ -1,0 +1,32 @@
+{% extends "layout.html" %}
+
+{% block title %}Network Analysis{% endblock %}
+
+{% block content %}
+    <!-- body -->
+
+    <h1>Network Analysis</h1>
+        <p style="color: blue; background-color: #eef0f6;"><b>Authors</b></p>
+        <p style="color: green; background-color: #eef0f6;"><b>Books</p></b>
+
+
+      <!-- Add the buttons for zoom in and zoom out
+  <div class="controls">
+    <button onclick="zoomIn()">Zoom In</button>
+    <button onclick="zoomOut()">Zoom Out</button>
+  </div> -->
+
+  <!-- Append the SVG container to display the graph -->
+  <!-- <svg id="graph" width="100%" height="100%"></svg> -->
+
+  <div id="cy"></div>
+
+    <script>
+        var data = {{ data | tojson }};
+    </script>
+    
+
+    <!-- JavaScript links -->
+    <script src="https://d3js.org/d3.v5.min.js"></script> 
+    <script src="/static/js/network.js"></script>
+{% endblock %}

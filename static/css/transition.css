@@ -1,0 +1,5 @@
+body {
+    opacity: 0; /* Set initial opacity to 0 (fully transparent) */
+    transition: opacity 1s ease-in-out; /* Apply a transition effect to the opacity property */
+  }
+  

@@ -1,0 +1,42 @@
+{% extends "layout.html" %}
+
+{% block title %}Author Analysis{% endblock %}
+
+{% block content %}
+    <!-- body -->
+
+    <h1>Stephen King</h1>
+
+    <!-- JavaScript links -->
+
+    <!DOCTYPE html>
+    <title>Text Example</title>
+    <style>
+    div.container {
+    background-color: #121212;
+    }
+    div.container p {
+    font-family: Arial;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: normal;
+    text-decoration: none;
+    text-transform: none;
+    color: #ffffff;
+    background-color: #0a0a0a;
+    }
+    </style>
+    
+    <div class="container">
+    <h2>About the author....</h2>
+    <p>Stephen King as we know has been dubbed the <b>"King of Horror"</b>, and has been writing for over <b>40 years</b>. During his career he has developed a strong work ethic by writing everyday which allowed him to accomplish writing <b>50 novels and 200 short stories</b>. Here is a quote from him talking about his journey to success:</p>
+    <br>
+    <p><i>“I like to get ten pages a day, which amounts to 2,000 words. That’s 180,000 words over a three-month span, a goodish length for a book — something in which the reader can get happily lost, if the tale is done well and stays fresh.”</p></i>
+    <p>― Stephen King, On Writing: A Memoir of the Craft</p>
+    <br>
+    <p>It’s hard to imagine writing a book every <b>3 months</b>. Thanks to his hard work and dedication we have novels and short stories we all know and love today.</p>
+    </div>
+    <div id="plot"></div>
+    <div id="line"></div>
+    <script  src="../static/js/author.js"></script>
+{% endblock %}

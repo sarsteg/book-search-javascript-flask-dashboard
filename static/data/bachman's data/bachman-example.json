@@ -1,0 +1,716 @@
+{
+  "kind": "books#volumes",
+  "totalItems": 108,
+  "items": [
+    {
+      "kind": "books#volume",
+      "id": "1QVnuvon5DUC",
+      "etag": "H5UaqxffnJU",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/1QVnuvon5DUC",
+      "volumeInfo": {
+        "title": "The Regulators",
+        "authors": [
+          "Richard Bachman",
+          "Stephen King"
+        ],
+        "publisher": "Penguin",
+        "publishedDate": "1997",
+        "description": "On a perfect summer afternoon in Wentworth, Ohio, many of the citizens who live on Poplar street are killed mysteriously and, at the center of the mystery, is a young boy named Seth Garon whose supernatural powers are just awakening. Reissue.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "0451191013"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9780451191014"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 516,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "averageRating": 3.5,
+        "ratingsCount": 5,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "2.2.4.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=1QVnuvon5DUC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=1QVnuvon5DUC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=1QVnuvon5DUC&printsec=frontcover&dq=inauthor:%22richard+bachman%22&hl=&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=1QVnuvon5DUC&dq=inauthor:%22richard+bachman%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Regulators.html?hl=&id=1QVnuvon5DUC"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=1QVnuvon5DUC&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "On a perfect summer afternoon in Wentworth, Ohio, many of the citizens who live on Poplar street are killed mysteriously and, at the center of the mystery, is a young boy named Seth Garon whose supernatural powers are just awakening."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "s1ai88XU3XIC",
+      "etag": "+nMTISYdDX4",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/s1ai88XU3XIC",
+      "volumeInfo": {
+        "title": "Blaze",
+        "subtitle": "A Novel",
+        "authors": [
+          "Richard Bachman"
+        ],
+        "publisher": "Simon and Schuster",
+        "publishedDate": "2007",
+        "description": "Originally written thirty-five years ago but never published, a crime novel chronicles the life and times of Clayton Blaisdell, Jr.--the crimes committed against him and the crimes he himself commits, including a kidnapping he is doomed to attempt.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781416554844"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "141655484X"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 306,
+        "printType": "BOOK",
+        "categories": [
+          "Adventure fiction"
+        ],
+        "averageRating": 4,
+        "ratingsCount": 6,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.1.1.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=s1ai88XU3XIC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=s1ai88XU3XIC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=s1ai88XU3XIC&printsec=frontcover&dq=inauthor:%22richard+bachman%22&hl=&cd=2&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=s1ai88XU3XIC&dq=inauthor:%22richard+bachman%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Blaze.html?hl=&id=s1ai88XU3XIC"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=s1ai88XU3XIC&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Originally written thirty-five years ago but never published, a crime novel chronicles the life and times of Clayton Blaisdell, Jr.--the crimes committed against him and the crimes he himself commits, including a kidnapping he is doomed to ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "4fVbvgEACAAJ",
+      "etag": "eigHLp5VfHE",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/4fVbvgEACAAJ",
+      "volumeInfo": {
+        "title": "Blaze",
+        "subtitle": "A Novel",
+        "authors": [
+          "Richard Bachman"
+        ],
+        "publisher": "Pocket Books",
+        "publishedDate": "2008-01-22",
+        "description": "Once upon a time, a fellow named Richard Bachman wrote Blaze on an Olivetti typewriter, then turned the machine over to Stephen King, who used it to write Carrie. Bachman died in 1985 (\"cancer of the pseudonym\"), but this last gripping Bachman novel resurfaced after being hidden away for decades -- an unforgettable crime story tinged with sadness and suspense. Clayton Blaisdell, Jr., was always a small-time delinquent. None too bright either, thanks to the beatings he got as a kid. Then Blaze met George Rackley, a seasoned pro with a hundred cons and one big idea. The kidnapping should go off without a hitch, with George as the brains behind their dangerous scheme. But there's only one problem: by the time the deal goes down, Blaze's partner in crime is dead. Or is he? Includes a previously uncollected story, \"Memory\" -- the riveting opening to Stephen King's new Scribner hardcover novel, Duma Key.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "1416548580"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781416548584"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 0,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "averageRating": 3.5,
+        "ratingsCount": 50,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=4fVbvgEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=4fVbvgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=4fVbvgEACAAJ&dq=inauthor:%22richard+bachman%22&hl=&cd=3&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=4fVbvgEACAAJ&dq=inauthor:%22richard+bachman%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Blaze.html?hl=&id=4fVbvgEACAAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=4fVbvgEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Once upon a time, a fellow named Richard Bachman wrote Blaze on an Olivetti typewriter, then turned the machine over to Stephen King, who used it to write Carrie."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "VLtlNQAACAAJ",
+      "etag": "wZWLq0Bw4ZU",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/VLtlNQAACAAJ",
+      "volumeInfo": {
+        "title": "Rage",
+        "authors": [
+          "Richard Bachman"
+        ],
+        "publishedDate": "1983-02-01",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "0450053792"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9780450053795"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 224,
+        "printType": "BOOK",
+        "averageRating": 4,
+        "ratingsCount": 2,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=VLtlNQAACAAJ&dq=inauthor:%22richard+bachman%22&hl=&cd=4&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=VLtlNQAACAAJ&dq=inauthor:%22richard+bachman%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Rage.html?hl=&id=VLtlNQAACAAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=VLtlNQAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "3g9dN4rVVEUC",
+      "etag": "sUCOrLPNI2Q",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/3g9dN4rVVEUC",
+      "volumeInfo": {
+        "title": "The Running Man",
+        "authors": [
+          "Stephen King",
+          "Richard Bachman"
+        ],
+        "publisher": "Penguin",
+        "publishedDate": "1999",
+        "description": "Welcome to America in 2025 when the best men don't run for president. They run for thier lives--in the ultimate death game.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "0451197968"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9780451197962"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 340,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "averageRating": 3.5,
+        "ratingsCount": 55,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.2.4.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=3g9dN4rVVEUC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=3g9dN4rVVEUC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=3g9dN4rVVEUC&printsec=frontcover&dq=inauthor:%22richard+bachman%22&hl=&cd=5&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=3g9dN4rVVEUC&dq=inauthor:%22richard+bachman%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Running_Man.html?hl=&id=3g9dN4rVVEUC"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=3g9dN4rVVEUC&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Welcome to America in 2025 when the best men don&#39;t run for president. They run for thier lives--in the ultimate death game."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "SgLQoQEACAAJ",
+      "etag": "zm5ZBM+FITI",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/SgLQoQEACAAJ",
+      "volumeInfo": {
+        "title": "The Regulators",
+        "authors": [
+          "Richard Bachman",
+          "Kate Nelligan"
+        ],
+        "publishedDate": "2006-12-14",
+        "description": "Stephen King's alter ego (deceased) presents this chilling tale of small-town horror, now on CD for the first time.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "1844561674"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781844561674"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 8,
+        "printType": "BOOK",
+        "averageRating": 3.5,
+        "ratingsCount": 30,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=SgLQoQEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=SgLQoQEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=SgLQoQEACAAJ&dq=inauthor:%22richard+bachman%22&hl=&cd=6&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=SgLQoQEACAAJ&dq=inauthor:%22richard+bachman%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Regulators.html?hl=&id=SgLQoQEACAAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=SgLQoQEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Stephen King&#39;s alter ego (deceased) presents this chilling tale of small-town horror, now on CD for the first time."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "eEssEH-V3wYC",
+      "etag": "euTVGhrOP6M",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/eEssEH-V3wYC",
+      "volumeInfo": {
+        "title": "Thinner",
+        "authors": [
+          "Stephen King",
+          "Richard Bachman"
+        ],
+        "publisher": "Signet",
+        "publishedDate": "1996-09",
+        "description": "For use in schools and libraries only. After an old gypsy woman is killed by his car, lawyer Billy Halleck is stricken with a flesh-wasting malady and must undertake a nightmarish journey to confront the forces of death.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "0451190750"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9780451190758"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 324,
+        "printType": "BOOK",
+        "categories": [
+          "Allegories"
+        ],
+        "averageRating": 3.5,
+        "ratingsCount": 39,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.4.2.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=eEssEH-V3wYC&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=eEssEH-V3wYC&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=eEssEH-V3wYC&dq=inauthor:%22richard+bachman%22&hl=&cd=7&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=eEssEH-V3wYC&dq=inauthor:%22richard+bachman%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Thinner.html?hl=&id=eEssEH-V3wYC"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=eEssEH-V3wYC&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "For use in schools and libraries only. After an old gypsy woman is killed by his car, lawyer Billy Halleck is stricken with a flesh-wasting malady and must undertake a nightmarish journey to confront the forces of death."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "vElZAAAAYAAJ",
+      "etag": "lXP/GdchP0o",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/vElZAAAAYAAJ",
+      "volumeInfo": {
+        "title": "The Bachman Books",
+        "subtitle": "Four Early Novels",
+        "authors": [
+          "Richard Bachman"
+        ],
+        "publisher": "Plume Books",
+        "publishedDate": "1996",
+        "description": "A collection of Stephen King's early works, written under the pseudonym of Richard Bachman.",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "PSU:000032462883"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 714,
+        "printType": "BOOK",
+        "categories": [
+          "Horror tales, American"
+        ],
+        "averageRating": 3.5,
+        "ratingsCount": 28,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.3.1.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=vElZAAAAYAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=vElZAAAAYAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=vElZAAAAYAAJ&dq=inauthor:%22richard+bachman%22&hl=&cd=8&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=vElZAAAAYAAJ&dq=inauthor:%22richard+bachman%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Bachman_Books.html?hl=&id=vElZAAAAYAAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=vElZAAAAYAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "A collection of Stephen King&#39;s early works, written under the pseudonym of Richard Bachman."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "yukePwAACAAJ",
+      "etag": "ZO7z/3H5sdQ",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/yukePwAACAAJ",
+      "volumeInfo": {
+        "title": "Roadwork",
+        "authors": [
+          "Richard Bachman"
+        ],
+        "publisher": "New English Library",
+        "publishedDate": "1983-06-01",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "0450055663"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9780450055669"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 273,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=yukePwAACAAJ&dq=inauthor:%22richard+bachman%22&hl=&cd=9&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=yukePwAACAAJ&dq=inauthor:%22richard+bachman%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Roadwork.html?hl=&id=yukePwAACAAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=yukePwAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "XftPAQAACAAJ",
+      "etag": "fv9WIEN6fWw",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/XftPAQAACAAJ",
+      "volumeInfo": {
+        "title": "The Long Walk",
+        "authors": [
+          "Stephen King"
+        ],
+        "publishedDate": "2009",
+        "description": "In the near future, a young boy has been one of 100 selected to take the Long Walk--a deadly contest of endurance and determination, in which each step can literally be your last. Follow the contestants' tortured footsteps as they struggle with each other, and themselves, to survive the race. Includes the Introduction \"The Importance of Being Bachman\". Vintage King, this harrowing tale was originally published under the Richard Bachman pseudonym.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "1101137983"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781101137987"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "printType": "BOOK",
+        "categories": [
+          "Contests"
+        ],
+        "averageRating": 4,
+        "ratingsCount": 55,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=XftPAQAACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=XftPAQAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=XftPAQAACAAJ&dq=inauthor:%22richard+bachman%22&hl=&cd=10&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=XftPAQAACAAJ&dq=inauthor:%22richard+bachman%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Long_Walk.html?hl=&id=XftPAQAACAAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=XftPAQAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Includes the Introduction &quot;The Importance of Being Bachman&quot;. Vintage King, this harrowing tale was originally published under the Richard Bachman pseudonym"
+      }
+    }
+  ]
+}

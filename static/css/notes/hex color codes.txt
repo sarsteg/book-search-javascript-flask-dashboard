@@ -1,0 +1,8 @@
+red: #ac1e32
+dark red: #4e2034
+
+light blue: #e4f2f5
+dark teal: #385c71
+
+black: #0d161e
+white: #eef0f6

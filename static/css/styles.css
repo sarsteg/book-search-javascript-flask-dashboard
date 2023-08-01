@@ -1,0 +1,92 @@
+body {
+    background-image: url("/static/images/dark-black-texture.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    min-height: 100vh;
+    color: #eef0f6;
+  } 
+
+
+  a:link {
+    color: #e4f2f5;
+    background-color: transparent;
+    text-decoration: none;
+  }
+  
+  a:visited {
+    color: #e4f2f5;
+    background-color: transparent;
+    text-decoration: none;
+  }
+  
+  a:hover {
+    color: #ac1e32;
+    background-color: transparent;
+    text-decoration: underline;
+  }
+  
+  a:active {
+    color: #ac1e32;
+    background-color: transparent;
+    text-decoration: underline;
+  }
+
+
+/* Font styles
+
+.h1
+
+.h2
+
+.h3
+
+.h4
+
+.h5
+
+.h6
+
+.p
+
+.lead
+
+.small
+
+.font-weight-bold
+
+.font-weight-normal
+
+.font-weight-light
+
+.font-italic
+
+.text-monospace
+
+.text-justify
+
+.text-nowrap
+
+.text-truncate
+
+.text-left
+
+.text-right
+
+.text-center
+
+.text-lowercase
+
+.text-uppercase
+
+.text-capitalize
+
+.font-weight-light
+
+.font-weight-normal
+
+.font-weight-bold */
+
+
+
+ 

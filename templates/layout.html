@@ -1,0 +1,33 @@
+<!-- layout.html -->
+<!DOCTYPE html>
+<html>
+<head>
+    <title>{% block title %}Book Analysis{% endblock %}</title>
+    <script src="https://d3js.org/d3.v5.min.js"></script>
+    <!-- CSS and other common styles here -->
+    <link rel="stylesheet" type="text/css" href="{{ url_for('static', filename='css/menu.css') }}">
+    <link rel="stylesheet" type="text/css" href="{{ url_for('static', filename='css/styles.css') }}">
+    <script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
+</head>
+<body>
+    <nav>
+        <!-- Menu -->
+        <div class="topnav">
+            <a class="active" href="/">Home</a>
+            <a href="/about">About</a>
+            <a href="/author">Author Analysis</a>
+            <a href="/network">Network Analysis</a>
+            <!-- <a href="/book-search">Book Search</a>  -->
+            <!-- <input type="text" placeholder="Search book titles..."> -->
+          </div>
+    </nav>
+
+    <!-- Content specific to each page will go here -->
+    {% block content %}{% endblock %}
+
+    <!-- Footer -->
+    <footer>
+        <!-- Footer content -->
+    </footer>
+</body>
+</html>

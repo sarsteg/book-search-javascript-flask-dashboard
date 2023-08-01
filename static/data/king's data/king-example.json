@@ -1,0 +1,753 @@
+{
+  "kind": "books#volumes",
+  "totalItems": 137,
+  "items": [
+    {
+      "kind": "books#volume",
+      "id": "uukqDwAAQBAJ",
+      "etag": "sx7g7eE8NJ0",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/uukqDwAAQBAJ",
+      "volumeInfo": {
+        "title": "It",
+        "subtitle": "A Novel",
+        "authors": [
+          "Stephen King"
+        ],
+        "publisher": "Simon and Schuster",
+        "publishedDate": "2017-07-11",
+        "description": "In 1985, six men and one woman are called back together to search for a creature of unspeakable evil that had stalked them as children.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781501182099"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1501182099"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 1168,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "averageRating": 5,
+        "ratingsCount": 2,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.4.0.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=uukqDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=uukqDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=uukqDwAAQBAJ&printsec=frontcover&dq=inauthor:%22Stephen+King%22&hl=&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=uukqDwAAQBAJ&dq=inauthor:%22Stephen+King%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/It.html?hl=&id=uukqDwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=uukqDwAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "In 1985, six men and one woman are called back together to search for a creature of unspeakable evil that had stalked them as children."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "tRExEAAAQBAJ",
+      "etag": "7Rr1vJVsSA4",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/tRExEAAAQBAJ",
+      "volumeInfo": {
+        "title": "The Institute",
+        "subtitle": "A Novel",
+        "authors": [
+          "Stephen King"
+        ],
+        "publisher": "Simon and Schuster",
+        "publishedDate": "2021-06-29",
+        "description": "In the middle of the night, in a house on a quiet street in suburban Minneapolis, intruders silently murder Luke Ellis' parents and load him into a black SUV. The operation takes less than two minutes. Luke will wake up at The Institute, in a room that looks just like his own, except there's no window. And outside his door are other doors, behind which are other kids with special talents--telekinesis and telepathy--who got to this place the same way Luke did: Kalisha, Nick, George, Iris, and 10-year-old Avery Dixon. They are all in Front Half. Others, Luke learns, graduated to Back Half, \"like the roach motel,\" Kalisha says. \"You check in, but you don't check out.\" In this most sinister of institutions, the director, Mrs. Sigsby, and her staff are ruthlessly dedicated to extracting from these children the force of their extranormal gifts. There are no scruples here. If you go along, you get tokens for the vending machines. If you don't, punishment is brutal. As each new victim disappears to Back Half, Luke becomes more and more desperate to get out and get help. But no one has ever escaped from The Institute.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781982110574"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1982110570"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 672,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.0.1.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=tRExEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=tRExEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=tRExEAAAQBAJ&printsec=frontcover&dq=inauthor:%22Stephen+King%22&hl=&cd=2&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=tRExEAAAQBAJ&dq=inauthor:%22Stephen+King%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Institute.html?hl=&id=tRExEAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=tRExEAAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "If you don&#39;t, punishment is brutal. As each new victim disappears to Back Half, Luke becomes more and more desperate to get out and get help. But no one has ever escaped from The Institute."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "4e5BYgEACAAJ",
+      "etag": "slKdx8b/r6o",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/4e5BYgEACAAJ",
+      "volumeInfo": {
+        "title": "It",
+        "authors": [
+          "Stephen King"
+        ],
+        "publisher": "Viking Adult",
+        "publishedDate": "1986",
+        "description": "Seven men and women return to their hometown to face the horror they fled from when they were teenagers. Copyright © Libri GmbH. All rights reserved.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "0670813028"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9780670813025"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 1138,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "averageRating": 4,
+        "ratingsCount": 1,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=4e5BYgEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=4e5BYgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=4e5BYgEACAAJ&dq=inauthor:%22Stephen+King%22&hl=&cd=3&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=4e5BYgEACAAJ&dq=inauthor:%22Stephen+King%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/It.html?hl=&id=4e5BYgEACAAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=4e5BYgEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "&quot;Previously published in a Viking edition. A limited first edition of this book has been published by Phantasia Press&quot;--T.p. verso."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "wj38LXnBk9oC",
+      "etag": "n5QItcnLc4M",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/wj38LXnBk9oC",
+      "volumeInfo": {
+        "title": "Storm of the Century",
+        "subtitle": "The Labor Day Hurricane of 1935",
+        "authors": [
+          "Stephen King"
+        ],
+        "publisher": "Simon and Schuster",
+        "publishedDate": "1999-02",
+        "description": "Complemented by an author introduction, the screenplay for a six-hour television miniseries follows the residents of Little Tall Island as they prepare to cope with both a dangerous storm and an mysteriously evil force",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9780671032647"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "067103264X"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 406,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "averageRating": 3.5,
+        "ratingsCount": 19,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.1.1.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=wj38LXnBk9oC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=wj38LXnBk9oC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=wj38LXnBk9oC&printsec=frontcover&dq=inauthor:%22Stephen+King%22&hl=&cd=4&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=wj38LXnBk9oC&dq=inauthor:%22Stephen+King%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Storm_of_the_Century.html?hl=&id=wj38LXnBk9oC"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=wj38LXnBk9oC&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Publisher Description"
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "XvuoCwAAQBAJ",
+      "etag": "nZc2QYqSxpg",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/XvuoCwAAQBAJ",
+      "volumeInfo": {
+        "title": "The Running Man",
+        "authors": [
+          "Stephen King",
+          "Richard Bachman"
+        ],
+        "publisher": "Simon and Schuster",
+        "publishedDate": "2016-03-08",
+        "description": "A desperate man attempts to win a reality TV game where the only objective is to stay alive in this #1 national bestseller from Stephen King, writing as Richard Bachman. “Tomorrow at noon, the hunt begins. Remember his face!” Ben Richards is a desperate man. With no job, no money, no way out, and a young daughter in need of proper medical attention, he must turn to the only possibility of striking it rich in this near-future dystopian America: participating in the ultraviolent TV programming of the government-sanctioned Games Network. Ben soon finds himself selected as a contestant on the biggest and the best that the Games Network has to offer: The Running Man, a no-holds-barred thirty-day struggle to stay alive as public enemy number one, relentlessly hunted by an elite strike force bent on killing him as quickly as possible in front of an audience all too eager to see that happen. It means a billion dollars in prize money if he can live for the next month. No one has ever survived longer than eight days. But desperation can push a person do things they never thought possible—and Ben Richards is willing to go the distance in this ultimate game of life and death.... “Under any name King mesmerizes the reader.” —Chicago Sun-Times “No one does psychological terror better!” —Kirkus Reviews “One of America’s top storytellers.” —Toronto Star",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781501144516"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1501144510"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 352,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "averageRating": 3.5,
+        "ratingsCount": 35,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.4.2.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=XvuoCwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=XvuoCwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=XvuoCwAAQBAJ&printsec=frontcover&dq=inauthor:%22Stephen+King%22&hl=&cd=5&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=XvuoCwAAQBAJ&dq=inauthor:%22Stephen+King%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Running_Man.html?hl=&id=XvuoCwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=XvuoCwAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "&quot;With an Introduction by the author, &#39;The Importance of Being Bachman&#39;.&quot;"
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "zEx5DAAAQBAJ",
+      "etag": "hzuPDqgOjWk",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/zEx5DAAAQBAJ",
+      "volumeInfo": {
+        "title": "Lisey's Story",
+        "subtitle": "A Novel",
+        "authors": [
+          "Stephen King"
+        ],
+        "publisher": "Simon and Schuster",
+        "publishedDate": "2016-06-28",
+        "description": "Every marriage has two hearts, one light and one dark, and Lisey Landon must confront both. King's most personal and powerful book to date is about the wellsprings of creativity, the temptations of madness, and the secret language of love.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781501138256"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1501138251"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 544,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.6.3.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=zEx5DAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=zEx5DAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=zEx5DAAAQBAJ&printsec=frontcover&dq=inauthor:%22Stephen+King%22&hl=&cd=6&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=zEx5DAAAQBAJ&dq=inauthor:%22Stephen+King%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Lisey_s_Story.html?hl=&id=zEx5DAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=zEx5DAAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Every marriage has two hearts, one light and one dark, and Lisey Landon must confront both. King&#39;s most personal and powerful book to date is about the wellsprings of creativity, the temptations of madness, and the secret language of love."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "WuDEDwAAQBAJ",
+      "etag": "Iv2DZpt/DlI",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/WuDEDwAAQBAJ",
+      "volumeInfo": {
+        "title": "The Outsider",
+        "subtitle": "A Novel",
+        "authors": [
+          "Stephen King"
+        ],
+        "publisher": "Gallery Books",
+        "publishedDate": "2020-01-14",
+        "description": "Now an HBO limited series starring Ben Mendelsohn!\u200b Evil has many faces…maybe even yours in this #1 New York Times bestseller from master storyteller Stephen King. An eleven-year-old boy’s violated corpse is discovered in a town park. Eyewitnesses and fingerprints point unmistakably to one of Flint City’s most popular citizens—Terry Maitland, Little League coach, English teacher, husband, and father of two girls. Detective Ralph Anderson, whose son Maitland once coached, orders a quick and very public arrest. Maitland has an alibi, but Anderson and the district attorney soon have DNA evidence to go with the fingerprints and witnesses. Their case seems ironclad. As the investigation expands and horrifying details begin to emerge, King’s story kicks into high gear, generating strong tension and almost unbearable suspense. Terry Maitland seems like a nice guy, but is he wearing another face? When the answer comes, it will shock you as only Stephen King can.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781982148249"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1982148241"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 576,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "averageRating": 5,
+        "ratingsCount": 1,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.1.1.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=WuDEDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=WuDEDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=WuDEDwAAQBAJ&printsec=frontcover&dq=inauthor:%22Stephen+King%22&hl=&cd=7&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=WuDEDwAAQBAJ&dq=inauthor:%22Stephen+King%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Outsider.html?hl=&id=WuDEDwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=WuDEDwAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Now an HBO limited series starring Ben Mendelsohn!\u200b Evil has many faces…maybe even yours in this #1 New York Times bestseller from master storyteller Stephen King."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "1xhLQ7F1_CsC",
+      "etag": "PSuAqrWQcsM",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/1xhLQ7F1_CsC",
+      "volumeInfo": {
+        "title": "The Stand",
+        "authors": [
+          "Stephen King"
+        ],
+        "publisher": "Anchor",
+        "publishedDate": "2012-08-07",
+        "description": "#1 BESTSELLER • Stephen King’s apocalyptic vision of a world blasted by plague and tangled in an elemental struggle between good and evil remains as riveting—and eerily plausible—as when it was first published. This edition includes all of the new and restored material first published in The Stand: The Complete And Uncut Edition. A patient escapes from a biological testing facility, unknowingly carrying a deadly weapon: a mutated strain of super-flu that will wipe out 99 percent of the world’s population within a few weeks. Those who remain are scared, bewildered, and in need of a leader. Two emerge—Mother Abagail, the benevolent 108-year-old woman who urges them to build a peaceful community in Boulder, Colorado; and Randall Flagg, the nefarious “Dark Man,” who delights in chaos and violence. As the dark man and the peaceful woman gather power, the survivors will have to choose between them—and ultimately decide the fate of all humanity. Also a limited series on CBS All Access",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9780307947307"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "0307947300"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 1202,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "averageRating": 4,
+        "ratingsCount": 3516,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.2.0.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=1xhLQ7F1_CsC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=1xhLQ7F1_CsC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=1xhLQ7F1_CsC&printsec=frontcover&dq=inauthor:%22Stephen+King%22&hl=&cd=8&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=1xhLQ7F1_CsC&dq=inauthor:%22Stephen+King%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Stand.html?hl=&id=1xhLQ7F1_CsC"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=1xhLQ7F1_CsC&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "This edition includes all of the new and restored material first published in The Stand: The Complete And Uncut Edition."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "Qbm5ejIoY5sC",
+      "etag": "KQm3Ae0xJNQ",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/Qbm5ejIoY5sC",
+      "volumeInfo": {
+        "title": "Stephen King Goes to the Movies",
+        "authors": [
+          "Stephen King"
+        ],
+        "publisher": "Simon and Schuster",
+        "publishedDate": "2009-01-20",
+        "description": "A collection of five short stories that have been made into movies includes \"The Mangler,\" in which a skeptical writer investigates a supposedly haunted hotel room that has apparently caused at least forty-two deaths.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781416592365"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1416592369"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 645,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "averageRating": 4,
+        "ratingsCount": 11,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.1.1.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=Qbm5ejIoY5sC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=Qbm5ejIoY5sC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=Qbm5ejIoY5sC&printsec=frontcover&dq=inauthor:%22Stephen+King%22&hl=&cd=9&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=Qbm5ejIoY5sC&dq=inauthor:%22Stephen+King%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Stephen_King_Goes_to_the_Movies.html?hl=&id=Qbm5ejIoY5sC"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=Qbm5ejIoY5sC&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Stephen King revisits five of his favorite short stories that have been turned into films. This collection features new commentary and introductions to all of these stories in a treasure-trove of movie trivia."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "xKppCwAAQBAJ",
+      "etag": "rIUG5fQmqHs",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/xKppCwAAQBAJ",
+      "volumeInfo": {
+        "title": "11/22/63",
+        "subtitle": "A Novel",
+        "authors": [
+          "Stephen King"
+        ],
+        "publisher": "Simon and Schuster",
+        "publishedDate": "2016-01-26",
+        "description": "Includes book club kit with discussion questions and author interview.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781501120602"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1501120603"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 1120,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.1.1.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=xKppCwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=xKppCwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=xKppCwAAQBAJ&printsec=frontcover&dq=inauthor:%22Stephen+King%22&hl=&cd=10&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=xKppCwAAQBAJ&dq=inauthor:%22Stephen+King%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/11_22_63.html?hl=&id=xKppCwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=xKppCwAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Includes book club kit with discussion questions and author interview."
+      }
+    }
+  ]
+}
